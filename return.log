@@ -1,0 +1,18 @@
+Line 234: Class MSDataListLib.DataCombo of control dcEvalCode was not a loaded control class.
+Line 258: Class MSDataListLib.DataCombo of control dcBundleNo was not a loaded control class.
+Line 235: The property name Bindings in dcEvalCode is invalid.
+Line 241: The property name _ExtentX in dcEvalCode is invalid.
+Line 242: The property name _ExtentY in dcEvalCode is invalid.
+Line 243: The property name _Version in dcEvalCode is invalid.
+Line 244: The property name Style in dcEvalCode is invalid.
+Line 245: The property name ListField in dcEvalCode is invalid.
+Line 246: The property name Text in dcEvalCode is invalid.
+Line 247: The property name Object.DataMember in dcEvalCode is invalid.
+Line 259: The property name Bindings in dcBundleNo is invalid.
+Line 265: The property name _ExtentX in dcBundleNo is invalid.
+Line 266: The property name _ExtentY in dcBundleNo is invalid.
+Line 267: The property name _Version in dcBundleNo is invalid.
+Line 268: The property name Style in dcBundleNo is invalid.
+Line 269: The property name ListField in dcBundleNo is invalid.
+Line 270: The property name Text in dcBundleNo is invalid.
+Line 271: The property name Object.DataMember in dcBundleNo is invalid.
